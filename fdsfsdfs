@@ -1,0 +1,142 @@
+[33mcommit d5f175b7b48a45fe3e12a1dea7b40407b327c632[m[33m ([m[1;36mHEAD -> [m[1;32mteste[m[33m, [m[1;31morigin/teste[m[33m)[m
+Author: Carlos Junior <carlojunior800@gmail.com>
+Date:   Fri Oct 29 16:57:00 2021 -0300
+
+    add teste
+
+[33mcommit 8a7f03d6f4b6dd7dcc5ce54e28b933ca885df28e[m
+Author: Carlos Junior <carlojunior800@gmail.com>
+Date:   Fri Oct 29 16:10:25 2021 -0300
+
+    add teste
+
+[33mcommit fb31410cf8b6d342d530608145b4822f883a5cc1[m
+Author: Carlos Junior <carlojunior800@gmail.com>
+Date:   Fri Oct 29 16:08:12 2021 -0300
+
+    add projeto
+
+[33mcommit f0992cb9732ee54779b1d5006ec77f3918ab5aaa[m
+Merge: 9d2aadf 08b80d4
+Author: Carlos Junior <62120538+Carlojunior800@users.noreply.github.com>
+Date:   Fri Oct 29 15:15:40 2021 -0300
+
+    Merge pull request #5 from Carlojunior800/teste
+    
+    Teste
+
+[33mcommit 08b80d43b6ff496459448e23ccafe8e6d29aed84[m
+Merge: 6b662dd 9d2aadf
+Author: Carlos Junior <62120538+Carlojunior800@users.noreply.github.com>
+Date:   Fri Oct 29 15:15:25 2021 -0300
+
+    Merge branch 'master' into teste
+
+[33mcommit 9d2aadfad8289fa928c9a829f454fdde72d25900[m
+Merge: 8f120c7 4164ceb
+Author: Carolinna Aureliano <87497654+CarolinnaAureliano@users.noreply.github.com>
+Date:   Fri Oct 29 15:13:54 2021 -0300
+
+    Merge pull request #4 from Carlojunior800/nova
+    
+    novoteste
+
+[33mcommit 4164cebc33a1a6cbdc1b630b03dee7aef19bd635[m
+Author: CarolinnaAureliano <87497654+CarolinnaAureliano@users.noreply.github.com>
+Date:   Fri Oct 29 15:12:15 2021 -0300
+
+    novoteste
+
+[33mcommit 6b662dd4556fb5459087209849f27d3caed284f7[m
+Author: Carlos Junior <carlojunior800@gmail.com>
+Date:   Fri Oct 29 15:08:27 2021 -0300
+
+    add outros commandos
+
+[33mcommit 869292eabfe9fe481f1a50347039c351ac952605[m
+Author: Carlos Junior <carlojunior800@gmail.com>
+Date:   Fri Oct 29 15:04:54 2021 -0300
+
+    add commandos
+
+[33mcommit 8f120c758fd3fbc721bd1892c8fc4540e005f6f6[m
+Merge: 3160caf c6489f1
+Author: Carolinna Aureliano <87497654+CarolinnaAureliano@users.noreply.github.com>
+Date:   Fri Oct 29 14:55:43 2021 -0300
+
+    Merge pull request #3 from Carlojunior800/developer
+    
+    Developer
+
+[33mcommit c6489f16de86cc5eeb6838b5b5d8ddb10cb21204[m[33m ([m[1;31morigin/developer[m[33m)[m
+Author: CarolinnaAureliano <87497654+CarolinnaAureliano@users.noreply.github.com>
+Date:   Fri Oct 29 14:53:56 2021 -0300
+
+    add outro teste
+
+[33mcommit e2a3228b1eed2445976d4686ea18b7f8253076e8[m
+Author: CarolinnaAureliano <87497654+CarolinnaAureliano@users.noreply.github.com>
+Date:   Fri Oct 29 14:47:29 2021 -0300
+
+    add Carol
+
+[33mcommit 3160caf3dfe7648e4567c79b543256964d60c52b[m
+Merge: d48cbf9 8bf66e7
+Author: Carlos Junior <62120538+Carlojunior800@users.noreply.github.com>
+Date:   Fri Oct 29 13:48:46 2021 -0300
+
+    Merge pull request #2 from Carlojunior800/Feature
+    
+    Feature
+
+[33mcommit 8bf66e7fd9aca28b93dfb0709a31f3705286989b[m[33m ([m[1;31morigin/Feature[m[33m)[m
+Merge: 691bec7 d48cbf9
+Author: Carlos Junior <62120538+Carlojunior800@users.noreply.github.com>
+Date:   Fri Oct 29 13:48:18 2021 -0300
+
+    Merge branch 'master' into Feature
+
+[33mcommit 691bec72a5ecb6aacaa24a227d98628c811c8b10[m[33m ([m[1;32mFeature[m[33m)[m
+Author: Carlos Junior <carlojunior800@gmail.com>
+Date:   Fri Oct 29 13:44:43 2021 -0300
+
+    add Nome do Grupo
+
+[33mcommit d48cbf9bc53bf346bc7ed2cd873ef46ce9eae1ed[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Carlos Junior <carlojunior800@gmail.com>
+Date:   Fri Oct 29 13:38:37 2021 -0300
+
+    master
+
+[33mcommit a64dc54a98a725842592f74d9a64a0c8ab8805cc[m
+Author: Carlos Junior <carlojunior800@gmail.com>
+Date:   Fri Oct 29 13:26:14 2021 -0300
+
+    add outro teste
+
+[33mcommit da65763e232ca80a7770839d9340d616b1913d15[m
+Author: Carlos Junior <carlojunior800@gmail.com>
+Date:   Fri Oct 29 13:25:17 2021 -0300
+
+    add outro teste
+
+[33mcommit f08b4fee0f68e1c45c05031961d5b2805a3a66cd[m
+Merge: 7580217 971141e
+Author: Carlos Junior <62120538+Carlojunior800@users.noreply.github.com>
+Date:   Fri Oct 29 09:12:05 2021 -0300
+
+    Merge pull request #1 from Carlojunior800/Feature
+    
+    add teste
+
+[33mcommit 971141e9540c6cbe50f214278aff944fa2cdc13c[m
+Author: Carlos Junior <carlojunior800@gmail.com>
+Date:   Fri Oct 29 09:05:57 2021 -0300
+
+    add teste
+
+[33mcommit 75802174cb209bae62c447ba038ae51e300e34d3[m[33m ([m[1;32mFeatures[m[33m, [m[1;32mDeveloper[m[33m)[m
+Author: Carlos Junior <carlojunior800@gmail.com>
+Date:   Thu Oct 28 15:34:30 2021 -0300
+
+    Primeiro commit teste
